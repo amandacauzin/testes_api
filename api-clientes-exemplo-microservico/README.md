@@ -80,12 +80,3 @@ https://tester-global-cliente-api.herokuapp.com/swagger-ui.html#/
 
 Baixe a coleção do POSTMAN que possui os requests (métodos HTTP)  que exercitam essa API a partir do meu site:
 
-[viniciuspessoni.com/downloads]( https://www.viniciuspessoni.com/downloads)
-
-Me Segue =}
-
-😍 [YouTube]( https://www.youtube.com/c/pessonizando)
-
-💗 [Instagram](https://www.instagram.com/pessonizando)
-
-⭐ [Telegram](https://t.me/pessonizando)
